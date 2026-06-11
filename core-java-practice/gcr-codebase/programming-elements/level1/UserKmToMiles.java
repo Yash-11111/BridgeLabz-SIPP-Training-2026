@@ -15,9 +15,10 @@ public class UserKmToMiles {
                 miles +
                 " mile for the given " +
                 km +
-                " km"
+                // " km"
         );
 
         input.close();
     }
 }
+
